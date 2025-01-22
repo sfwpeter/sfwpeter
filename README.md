@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sfwpeter
 - 👀 I’m interested in machine learning/pytorch arduino and mostly anything python related or c++ related
-- 🌱 I’m currently learning pytorch
+- 🌱 I’m currently learning pytorch and playing around with ubuntu 
 - 💞️ I’m looking to collaborate on creating a pomodoro timer and also a small early detection model
 - 📫 How to reach me @sfwpeterr on telegram and prempeh.peter on insta
   
